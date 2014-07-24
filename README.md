@@ -2,6 +2,8 @@
 
 This is an example story produced by Rob Denton/The Register-Guard. The story was published June 1, 2014 and repurposed for Web later as a real-world example for the [bruce](https://github.com/rgpages/bruce) template.
 
+![screenshot](https://github.com/rgpages/wwii/blob/gh-pages/default.png)
+
 This example features:
 
 * mobile-first design
